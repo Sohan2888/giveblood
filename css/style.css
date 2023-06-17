@@ -10,6 +10,7 @@ color:#fff; #ECO930
 /*google fonts*/
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Inter:wght@400;500;700&display=swap");
 
+/*common css*/
 body {
   font-family: "Inter", sans-serif;
   font-weight: 400;
@@ -19,35 +20,52 @@ body {
   line-height: 1.5;
 }
 
-h2{
-  font-family: 'Inter', sans-serif;
+h2 {
+  font-family: "Inter", sans-serif;
   font-weight: 700;
   font-size: 55px;
 }
 .customebutton {
   padding: 10px 15px;
- 
+}
+.customebuttontwo {
+  padding: 15px 25px;
+  font-size: 25px;
+  background-color: #ec0930;
 }
 /*header area css*/
 .headersection {
   padding: 25px 0;
-  background-color: #fff; !important
 }
 /*slidersection css*/
-.slidersection .carousel-inner h2{
-  color: red;
-
+.slidersection {
+  padding: 50px 0;
 }
-.slidersection .carousel-item h2{
-  color: red;
-  
+.slidersection .carousel-inner h2 {
+  color: #ec0930;
 }
-.slidersection img{
+.slidersection .carousel-item h2 {
+  color: #ec0930;
+}
+.slidersection img {
   height: 600px;
 }
-.slidersection .carousel-item p{
+.slidersection .carousel-item p {
   color: black;
 }
-.slidersection .customebutton{
+.slidersection .customebuttontwo {
   margin-bottom: 150px;
+}
+
+/*about us section*/
+.aboutussection {
+  padding: 50px 0;
+  text-align: center;
+}
+.aboutussection h2 {
+  color: #ec0930;
+}
+
+.aboutussection p {
+  padding: 15px 0;
 }
