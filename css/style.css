@@ -2,7 +2,7 @@
 font-family: 'DM Sans', sans-serif;
 font-family: 'Inter', sans-serif;
 
-color:
+color:#fff; #ECO930
 #
 
 */
@@ -14,7 +14,40 @@ body {
   font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: 18px;
-  background-color: #c4defd;
-  color: #fff;
+  background-color: #6184542;
+  color: #000;
   line-height: 1.5;
+}
+
+h2{
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 55px;
+}
+.customebutton {
+  padding: 10px 15px;
+ 
+}
+/*header area css*/
+.headersection {
+  padding: 25px 0;
+  background-color: #fff; !important
+}
+/*slidersection css*/
+.slidersection .carousel-inner h2{
+  color: red;
+
+}
+.slidersection .carousel-item h2{
+  color: red;
+  
+}
+.slidersection img{
+  height: 600px;
+}
+.slidersection .carousel-item p{
+  color: black;
+}
+.slidersection .customebutton{
+  margin-bottom: 150px;
 }
