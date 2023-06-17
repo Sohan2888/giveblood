@@ -69,3 +69,14 @@ h2 {
 .aboutussection p {
   padding: 15px 0;
 }
+
+/* register section*/
+.registersection {
+  background-color: #ec0930;
+  padding: 50px 0;
+  color: #fff;
+}
+.registersection .customebuttontwo {
+  background-color: #fff;
+  color: #ec0930;
+}
