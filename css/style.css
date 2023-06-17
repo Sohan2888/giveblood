@@ -121,6 +121,16 @@ h2 {
 }
 
 /*oursponsors css*/
+.oursponsors {
+  padding: 50px 0;
+}
 .oursponsors img {
   height: 100px;
+}
+
+/*contact css*/
+.contact {
+  background-color: #ec0930;
+  color: #fff;
+  padding: 50px 0;
 }
