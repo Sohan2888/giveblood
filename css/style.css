@@ -86,3 +86,36 @@ h2 {
   background-color: #fff;
   color: #ec0930;
 }
+
+/*testimonial css*/
+.testimonial {
+  padding: 50px 0;
+}
+.testimonaltext {
+  padding: 30px;
+}
+.testimonial .testimonial1 {
+  margin: 0 40px;
+  padding: 0 30px;
+}
+.testimonial .testimonial2 {
+  background-color: #ec0930;
+  color: #fff;
+  margin: 0 40px;
+  padding: 0 30px;
+}
+.testimonial .testimonial3 {
+  background-color: #ec0930;
+  color: #fff;
+  margin: 0 40px;
+  padding: 0 30px;
+}
+.testimonial1 img {
+  padding-bottom: 10px;
+}
+.testimonial2 img {
+  padding-bottom: 10px;
+}
+.testimonial3 img {
+  padding-bottom: 10px;
+}
