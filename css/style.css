@@ -59,7 +59,7 @@ h2 {
 
 /*about us section*/
 .aboutussection {
-  padding: 50px 0;
+  padding: 30px 0;
   text-align: center;
 }
 .aboutussection h2 {
@@ -70,7 +70,13 @@ h2 {
   padding: 15px 0;
 }
 
-/* register section*/
+/*our service css*/
+.ourservice {
+  padding: 40px 0;
+}
+.ourservice .service2 {
+}
+/* register section css*/
 .registersection {
   background-color: #ec0930;
   padding: 50px 0;
